@@ -1,0 +1,30 @@
+相对于GRE阅读来说，GRE填空题是可以下功夫得高分的一种题型，在GRE verbal每个section的38道题当中，填空题占了7道题。下面我们一起来看一下GRE填空题满分解题技巧。
+　　在谈GRE填空题技巧之前要注意自己的基础，首先是词汇是基础，记住GRE词汇书上的百分之八、九十的词汇;其次，很好的阅读理解能力和清晰的逻辑头脑。这是最基本的两点。详细的解题方法如下：
+　　3. 对于含义晦涩的句子，判断语气或感情色彩是有效地解决方法，有时候甚至是唯一的方法。
+　　Johnson never ___ to ignore the standards of decent conduct mandated by company policy if ___ compliance with instructions from his superiors enabled him to do so, whatever the effects on his subordinates.
+　　A. deigned.. tacit B. attempted.. halfhearted C. intended.. direct
+　　D. scrupled.. literal E. wished.. feigned
+　　这句话对于英语阅读能力较差的学生来说，通过正常的阅读理解来做还是有些难度的。但是如果注意到whatever the effects on his subordinates(无论对下级产生什么影响)的语气，就可以判断第一空格填入后应表示johnson干的不是什么好事，唯一符合这一判断的是D选项。
+　　Ironically, the party leaders encountered no greater ___ their efforts to build a progressive party than the ___ of the progressives already elected to the legislature.
+　　A. support for.. advocacy B. threat to.. promise C. benefit from.. success
+　　D. obstacle to.. resistance E. praise for.. reputation
+　　如果知道encounter的正确用法，就可以判断第一空格应填入一个负面色彩的词，这样就轻松排除了A、C、E三个选项，结合后面的意思来看，只能选D。
+　　Although ___ is usually thought to spring from regret for having done something wrong, it may be that its origin is the realization that one's own nature is irremediably ___.
+　　A. contrition.. resilient B. certitude.. confident C.skepticism.. innocent
+　　D. remorse.. flawed E. resignation. frivolous
+　　第二空格被副词irremediably(不可救药地)修饰，根据这个词带出的语气可以判断第二空格应填入一个负面色彩的词，符合这一判断的只有D、E两个选项。第一空格remorse的意思完全地对应“regret for having done something wrong”，故选D。
+　　Any language is a conspiracy against experience in the sense that it is a collective attempt to ___ experience by reducing it into discrete parcels.
+　　A. extrapolate B. transcribe C. complicate D. amplify E. manage
+　　这句话如果没有看过相关背景的书籍几乎是不可理解的，但是我们可以通过语气和感情色彩的判断来排除错误的选项，最终剩下一个看不出错的选项，也就是正确选项了。因为语言是对抗经验的阴谋(conspiracy against)，所以空格应填入一个负面色彩的动作，只有C选项(使复杂化、使变得麻烦)和E选项(manage除了中性的经营管理之外，还可以表示负面的操纵控制)符合这一判断。结合方式状语by reducing(减少、分解、简化)来看，C选项应被排除，最后剩下仍然看不懂句意的E选项就对了。
+　　4.推理判断时注意避免发散思维
+　　Natural selection tends to eliminate genes that cause inherited diseases, acting most strongly against the most severe diseases; consequently, hereditary diseases that are ___ would be expected to be very ___, but, surprisingly, they are not.
+　　A. lethal.. rare B. untreated.. dangerous C. unusual.. refractory
+　　D. new.. perplexing E. widespread.. acute
+　　根据consequently提示的上下因果关系我们可以判断第一空格应填入severe的同义或反义，表示严重或不严重的词只有A选项。B选项表示未曾治疗的，D不用说了。C、E两个选项其实和是否严重没有关系，很多时候干扰选项的设置上利用了我们的习惯思维不缜密的、容易想当然的弱点。很多人会认为不寻常的、很少见的疾病就是严重的，寻常的、随处可见的疾病就是不严重的。但是只要稍微想一下就知道这里面没有任何必然的关系。
+　　Although ___, almost self-effacing in his private life, he displays in his plays and essays a strong ___ publicity and controversy.
+　　A. conventional.. interest in B. monotonous.. reliance on C. shy.. aversion toward
+　　D. retiring.. penchant for E. evasive.. impatience with
+　　第二空格根据转折关系显然只能选A、D两个选项，第一空格会有很多人觉得A选项可以选，因为觉得传统的人就是不喜欢抛头露面的，不喜欢与人争吵的。同样只要想想就该知道这里面没有任何必然的关系，并且即便我们中国传统的人真是这样，这里也没说他是中国人。这种干扰选项的设置路数和上一道题的感觉是完全一样的。
+　　Considering how long she had yearned to see Italy, her first reaction was curiously ___.
+　　A. meditative B. tepid C. categorical D. unoriginal E. insightful
+　　干扰选项的设置和上两道题完全一样，A选项的沉思冥想并不表示她所应具有的高兴振奋的态度的相反，正确选项应为B选项(微温的，缺乏热情或激情的)，直接表明了与兴奋激动的态度的相反特征。

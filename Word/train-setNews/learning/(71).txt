@@ -1,0 +1,49 @@
+第1页:
+			第2页:
+			第3页:
+			第4页:
+			第5页:
+			第6页:
+			第7页:
+			第8页:
+			第9页:
+			第10页:
+
+
+        [点击图片进入下一页]	
+    　　No.1 夏威夷
+　　州税4%，如果居住在夏威夷没有超过连续180天还有5%的居住税。
+　　州府是檀香山Honolulu，为旅游胜地。最引人的地方是外基基海滩WaikikiBeach全年风和日丽水蓝天青，宜游泳，冲浪，可以荡舟，也可以捕鱼。每年进出檀香山的船舶，约两千艘。每天进出檀香山国际机场的旅客，多至四。万人。市内有夏威夷大学，创于1907年，学生两万多。校内设立之东西研究中心TheEastWestCenter，非常着名。
+
+#cms4_zutu_nav1 {
+	margin:5px 0;
+	text-align:center;
+}
+#cms4_zutu_nav1 a {
+	display:-moz-inline-box; /* Moz FF */
+	padding:2px 5px;
+	margin:2px 1px;
+	line-height:24px;
+	font-size:12px;
+	color:#686868;
+	text-decoration:none;
+	cursor:pointer;	
+	border:1px solid #ccc;
+	background: url(http://photocdn.sohu.com/20070301/Img248444140.gif);
+}
+#cms4_zutu_nav1 a:hover {
+	color:red;
+}
+
+
+			1
+				2
+				3
+				4
+				5
+				6
+				7
+				8
+				9
+				10
+		下一页
